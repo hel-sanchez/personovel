@@ -1,0 +1,27 @@
+main {
+  min-height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h3 {
+  padding: 1rem;
+}
+
+.rating span {
+  color: #f8e825;
+  margin: 0.25rem;
+}
+
+.rating {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.bottom-text {
+  margin-top: auto;
+}
